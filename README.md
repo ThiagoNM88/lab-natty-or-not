@@ -20,23 +20,32 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Desvendar nova espécie de "Animal" encontrada ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Desvendar se é fake uma notícia de uma nova "espécia de aniaml encontrada" utilizando uma IA generativa
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT 4
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro elaborei uma noticia com base em uma notícia que li na internet.
+Perguntei a IA Generativa sobre o assunto através de uma conversa em texto.
+E obtive o resultado
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Apresente os resultados do seu projeto:
+Conversa com Chat GPT4:
+
+Você: Olá, estou investigando uma notícia que afirma que uma nova espécie de animal, semelhante a um dragão, foi descoberta na Amazônia. Você poderia me ajudar a determinar se essa informação parece ser verdadeira ou falsa?
+
+IA Generativa: Claro, vou analisar o trecho da notícia fornecido. Baseado na minha análise, essa informação parece ser altamente improvável. Dragões são criaturas de fantasia, e a descoberta de uma espécie tão extraordinária teria sido amplamente divulgada pela comunidade científica e pela mídia. Recomendaria investigar a fonte da notícia e verificar se há credibilidade antes de aceitar essa informação como verdadeira.
+
+Você: "Entendi, Obrigado pela informação. Vou investigar mais a fundo e verificar a credibilidade da fonte da notícia."
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Dessa forma, os usuários podem interagir com a IA generativa para obter uma análise sobre a veracidade de uma informação suspeita. Essa atividade pode ajudar a promover a conscientização sobre a importância da verificação de fatos e da credibilidade das fontes de informação.
 
 ### Exemplos e Insigths
 
